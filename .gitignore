@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# data directories — populated at runtime
+data/
+checkpoints/
+logs/
+reports/
+
+.env
+.DS_Store
