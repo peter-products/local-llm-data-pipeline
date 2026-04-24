@@ -116,3 +116,7 @@ This repo intentionally excludes:
 - All generated outputs (`data/output/`, `checkpoints/`, `logs/`, `reports/`)
 
 The repo demonstrates the architecture and reusable patterns, not anyone's actual data.
+
+---
+
+_Also by me: [pads.tax](https://pads.tax) · [schemafinder.com](https://schemafinder.com)_
